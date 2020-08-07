@@ -1,5 +1,7 @@
 ## Now you can use this module to resell our domain service to your client. you can resell domains using the UnivaHost domain reseller platform.Our module allows you to interact with our system programmatically from your own WHMCS.
 
+![Image of Yaktocat](https://i.imgur.com/GgLZ83n.png)
+
 Using the API you are able to perform actions such as:
 * Register Domain
 * Transfer Domain
