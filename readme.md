@@ -18,4 +18,5 @@ Using the API you are able to perform actions such as:
 * Registrar Lock
 * Get/Save Email Forwarding
 * Domain Cron Synchronization
-* So, start using our domain reselling service now.
+
+### So, start using our domain reselling service now.
