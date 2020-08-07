@@ -19,6 +19,6 @@ Using the API you are able to perform actions such as:
 * Get/Save Email Forwarding
 * Domain Cron Synchronization
 
-[Applay UnivaHost Domain Reseller !](https://univahost.com/domain-reseller/) 
+[Apply UnivaHost Domain Reseller !](https://univahost.com/domain-reseller/) 
 
 ### So, start using our domain reselling service now.
